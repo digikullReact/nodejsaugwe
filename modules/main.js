@@ -21,3 +21,9 @@ module.exports={
 
 console.log(module);
 
+
+
+// Create three different modules 
+// Controllers   ----->controllers ----->  use methods from services
+// Services   ---> use in your services ---->
+// Models  ---- > You have to create a class --->  this class have some methods
